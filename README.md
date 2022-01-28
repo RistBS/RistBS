@@ -25,6 +25,16 @@
 <img src="https://media.discordapp.net/attachments/713142876241920000/936599429912346684/1643370048673.png" height="90px">
 <img src="https://media.discordapp.net/attachments/713142876241920000/936585032393437205/1200px-Python-logo-notext.svg.png" height="90px">
 
+y = "http://upload.wikimedia.org/wikipedia/commons/5/5d/AaronEckhart10TIFF.jpg"
+download.file(y,'y.jpg', mode = 'wb')
+
+library("jpeg")
+photo <- readJPEG("y.jpg",native=TRUE)
+
+library(ggplot2)
+library(cowplot)
+photo_panel <- ggdraw() + draw_image(photo, scale = 0.8)
+
 ### Capture The Flag
 <br>
 <p align=center>
