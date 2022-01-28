@@ -15,6 +15,8 @@
 - 🛠️ ・ Current Project : [Active Directory Cheat Sheet](https://github.com/RistBS/Active-directory-Cheat-sheet)
 
 ### Languages :
+![image alt <](https://media.discordapp.net/attachments/713142876241920000/936585233371889694/0b849c72f38362fe12072a4916660013.png)
+![image alt >](https://media.discordapp.net/attachments/713142876241920000/936599429648121916/1643370061028.png)
 <img src="https://media.discordapp.net/attachments/713142876241920000/936585233371889694/0b849c72f38362fe12072a4916660013.png" height="90px">
 <img class="right" src="https://media.discordapp.net/attachments/713142876241920000/936599429648121916/1643370061028.png" height="90px">
 <img src="https://media.discordapp.net/attachments/713142876241920000/936585233124446228/R_1.png?" height="90px">
