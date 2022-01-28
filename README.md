@@ -27,9 +27,5 @@
 <img src="https://media.discordapp.net/attachments/713142876241920000/936585032393437205/1200px-Python-logo-notext.svg.png" height="80px">
 
 ### Capture The Flag
-<br>
-<p align=center>
-  <div align=center>
-   </div>
 <img src="http://www.hackthebox.eu/badge/image/444714" alt="Hack The Box">
 </p>
