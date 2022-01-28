@@ -11,4 +11,4 @@
 
 ## Capture The Flag :
 
-<img src="http://www.hackthebox.eu/badge/image/444714" alt="Hack The Box">
+<script src="https://www.hackthebox.eu/badge/444714"></script>
