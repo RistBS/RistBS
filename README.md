@@ -16,7 +16,7 @@
 
 ### Languages :
 <img src="https://media.discordapp.net/attachments/713142876241920000/936585233371889694/0b849c72f38362fe12072a4916660013.png" height="90px">
-<img src="https://media.discordapp.net/attachments/713142876241920000/936599429648121916/1643370061028.png" height="90px">
+<img class="right" src="https://media.discordapp.net/attachments/713142876241920000/936599429648121916/1643370061028.png" height="90px">
 <img src="https://media.discordapp.net/attachments/713142876241920000/936585233124446228/R_1.png?" height="90px">
 <img src="https://media.discordapp.net/attachments/713142876241920000/936587781071859772/HTML_5.png" height="90px">
 <img src="https://media.discordapp.net/attachments/713142876241920000/936584764129955860/css3-logo-png-transparent.png" height="90px">
