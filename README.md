@@ -10,7 +10,7 @@
 
 ## Languages : 
 
-<img src="https://media.discordapp.net/attachments/713142876241920000/936594295299924008/20220128_131112.png?width=572&height=630" alt="langages">
+<img src="https://media.discordapp.net/attachments/713142876241920000/936594295299924008/20220128_131112.png?width=572&height=572" alt="langages">
 
 
 ## Capture The Flag :
