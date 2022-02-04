@@ -26,5 +26,3 @@
 ### Capture The Flag
 <img src="http://www.hackthebox.eu/badge/image/444714" alt="Hack The Box">
 </p>
-
-<h3 align="left">Support:</h3> <p><a href="https://www.buymeacoffee.com/RistBS"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="130" width="430" alt="ristbs" /></a></p><br><br>
