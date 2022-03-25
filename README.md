@@ -7,7 +7,7 @@
 ## About me :
 - 💼 ・ RistBS, 15 yo
 - 🏴‍☠️ ・ Learn Pentesting and Programming
-- 📗 ・ create a site to teach people about pentesting (ristbs.github.io)
+- 📗 ・ write notes and articles about cybersecurity and red-teaming
 - 🚩 ・ CTF player on HackTheBox & RootMe
 - 🔌 ・ Discord Server : https://discord.gg/mPKkCAmrWk
 - 🛠️ ・ Current Project : [Active Directory Cheat Sheet](https://github.com/RistBS/Active-directory-Cheat-sheet)
