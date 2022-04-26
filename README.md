@@ -6,7 +6,7 @@
 
 ## About me :
 - 💼 ・ RistBS, 15 yo
-- 🏴‍☠️ ・ Learn Pentesting and Programming
+- 🏴‍☠️ ・ learn pentesting and programming since __1 year__
 - 📗 ・ write notes and articles about cybersecurity and red-teaming
 - 🚩 ・ CTF player on HackTheBox & RootMe
 - 🔌 ・ Discord Server : https://discord.gg/mPKkCAmrWk
