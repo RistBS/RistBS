@@ -14,7 +14,6 @@
 
 ### Achievements
 - 🏆 Finished Offshore Prolab on HackTheBox 
-- 🏆 Certified Red Team Operator - CRTO (soon) 
 
 ### Languages :
 ![image alt <](https://media.discordapp.net/attachments/713142876241920000/936585233371889694/0b849c72f38362fe12072a4916660013.png?width=80&height=80)
