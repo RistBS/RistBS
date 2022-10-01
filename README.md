@@ -1,9 +1,4 @@
-## GitHub's Stats :
----
-<img align="left" alt="RistBS Github Stats" src="https://github-readme-stats.vercel.app/api?username=RistBS&show_icons=true&hide_border=true" />
-
-<a href="https://github.com/RistBS/github-readme-stats"><img alt="RistBS Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistBS&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-## About me :
+# About me :
 - 💼 ・ RistBS, 15 yo
 - 🔴 ・ wannabe red teamer
 - 🏴‍☠️ ・ learn pentesting and programming since __1 year__
@@ -11,8 +6,8 @@
 - 🚩 ・ CTF player on HackTheBox & RootMe
 - 🛠️ ・ Current Project : [Active Directory Cheat Sheet](https://github.com/RistBS/Active-directory-Cheat-sheet)
 
-### Achievements
-- 🏆 Finished Offshore Prolab on HackTheBox 
+## Achievements
+- 🏆 ・ Finished Offshore Prolab on HackTheBox 
 
 ### Languages :
 ![image alt <](https://media.discordapp.net/attachments/713142876241920000/936585233371889694/0b849c72f38362fe12072a4916660013.png?width=80&height=80)
@@ -28,3 +23,7 @@
 ### Capture The Flag
 <img src="http://www.hackthebox.eu/badge/image/444714" alt="Hack The Box">
 </p>
+
+---
+
+<img align="left" alt="RistBS Github Stats" src="https://github-readme-stats.vercel.app/api?username=RistBS&show_icons=true&hide_border=true" />
