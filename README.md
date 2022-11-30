@@ -1,5 +1,5 @@
 # About me :
-- 💼 ・ RistBS, 15 yo
+- 💼 ・ RistBS, 15 y/o
 - 🔴 ・ wannabe red teamer
 - 🏴‍☠️ ・ learn pentesting and programming since __1 year__
 - 📗 ・ write notes and articles about cybersecurity and red-teaming
