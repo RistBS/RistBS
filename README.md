@@ -7,7 +7,8 @@
 - 🛠️ ・ Current Project : [Active Directory Cheat Sheet](https://github.com/RistBS/Active-directory-Cheat-sheet)
 
 ## Achievements
-- 🏆 ・ Finished Offshore Prolab on HackTheBox 
+- HackTheBox Prolabs
+  - 🏆 ・ Offshore
 
 ### Languages :
 ![image alt <](https://media.discordapp.net/attachments/713142876241920000/936585233371889694/0b849c72f38362fe12072a4916660013.png?width=80&height=80)
