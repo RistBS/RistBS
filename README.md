@@ -2,7 +2,7 @@
 - 🔴 ・ wannabe red teamer
 - 🏴‍☠️ ・ learn pentesting and programming since __1 year__
 - 📗 ・ write notes and articles about cybersecurity and red-teaming
-- 🚩 ・ CTF player on HackTheBox & RootMe
+- 🚩 ・ CTF player on HackTheBox
 - 🛠️ ・ Current Project : [Active Directory Cheat Sheet](https://github.com/RistBS/Active-directory-Cheat-sheet)
 
 ## Achievements
